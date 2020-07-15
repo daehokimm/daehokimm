@@ -1,16 +1,17 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaehokimm)](https://hits.seeyoufarm.com)
 
-<!--
-**daehokimm/daehokimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer and Software Developer
 
-Here are some ideas to get you started:
+* Software Engineer about Apache Kafka 
+* Software Developer with Spring boot & Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interest
+
+* Apache Kafka platform
+* Event Streaming
+* Data Pipeline Architecture
+* Web Development
+
+### Others
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daeho-kim-40b5b9143/)](https://www.linkedin.com/in/daeho-kim-40b5b9143/) / [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/kjjanggu)](https://www.facebook.com/kjjanggu) / [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:daehkimm@gmail.com)](mailto:daehokimm@gmail.com) / [![Tstory Badge](https://img.shields.io/badge/Tech%20Blog-Tistory-1eb49f)](https://always-kimkim.tistory.com/)
